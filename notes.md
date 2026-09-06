@@ -18,3 +18,5 @@
 > When number is postive it should be Green 
 >
 > When number is negative it should be Red
+>
+> Whem Counter = 0 the color should be Black
