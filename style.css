@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+#counter-box {
+  width: 300px;
+  height: 300px;
+}
